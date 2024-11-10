@@ -1,5 +1,5 @@
 # Learning-Management-System
-The Learning Management System (LMS) is a backend web application which provides a solution by making education more accessible through online learning by designing and building a comprehensive platform that simplifies and enhances educational processes for institutions, instructors, and students. This system will focus on core aspects such as course and instructor management, student enrollment, grading, and reporting on student progress.
+The Learning Management System (LMS) is a backend web application which provides a solution of making education more accessible through online learning by designing and building a comprehensive platform that simplifies and enhances educational processes for institutions, instructors, and students. This system will focus on core aspects such as course and instructor management, student enrollment, grading, and reporting on student progress.
 
 ## Features
 - User management (admin, students and instructors)
