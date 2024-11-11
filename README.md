@@ -11,7 +11,7 @@ The Learning Management System (LMS) is a backend web application which provides
   
 ## Clone the repository
 ```shell
-https://github.com/daisy-amrita/Learning-Management-System.git
+git clone https://github.com/daisy-amrita/Learning-Management-System.git
 ```
 ## Run in your System
 1. **Open Project in Eclipse**
